@@ -2,7 +2,7 @@
 
 A modern platform for building meaningful connections through focused group discussions and accountability circles.
 
-![CoffeeSpace Circles](hhttps://github.com/sharathodepalli/coffeespace-circles.git)
+![CoffeeSpace Circles](https://github.com/sharathodepalli/coffeespace-circles.git)
 
 ## Features
 
@@ -107,3 +107,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Unsplash](https://unsplash.com) for the profile images
 - [Lucide](https://lucide.dev) for the beautiful icons
 - [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
+
+##
